@@ -3,7 +3,8 @@ An Among Us mod that adds a ton (soon) of new roles!
 
 # List of current roles
 * Venter (test role)
-* (more soon...)
+* Ghost (crew)
+* (more soon)
 
 # Installation
 I really don't understand how to set up BepInEx for this, so here's what works:
