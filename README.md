@@ -1,10 +1,13 @@
 # roles-plus
-An Among Us mod that adds a ton (soon) of new roles!
+An Among Us mod that adds a ton (kinda) of new roles!
 
 # List of current roles
 * Venter (test role)
 * Ghost (crew)
-* (more soon)
+* Loner (neutral killer role)
+
+# Important notice
+RolesPlus should NOT cause any antivirus detections! It is NOT a virus and doesn't download anything to your computer either. Please make sure you download it only from here, as there is not a website!! Any other websites / GitHub pages giving out the dll is not maintained or owned by me.
 
 # Installation
 I really don't understand how to set up BepInEx for this, so here's what works:
