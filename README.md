@@ -5,7 +5,7 @@ An Among Us mod that adds a ton (kinda) of new roles!
 * Venter (test role)
 * Ghost (crew)
 * Loner (neutral killer role)
-* Slaghterer (5cd) (no vent) (no sab)
+* Slaughterer (5cd) (no vent) (no sab)
 
 # Important notice
 RolesPlus should NOT cause any antivirus detections! It is NOT a virus and doesn't download anything to your computer either. Please make sure you download it only from here, as there is not a website!! Any other websites / GitHub pages giving out the dll is not maintained or owned by me.
