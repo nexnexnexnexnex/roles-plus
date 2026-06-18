@@ -37,7 +37,11 @@ I don't know how to properly set up BepInEx for R+, so follow these steps carefu
 6. **Clean Up EHR Files:** * Go to `BepInEx\plugins\` and delete `EHR.dll` and `MiniRegionInfo.dll`.
    * Delete the `EHR_Logs` from your desktop and `Language` from your Among Us directory *(Note: You can keep all of this if you want, but I'm not sure if it conflicts with R+).*
 7. **Install RolesPlus:** Copy your downloaded `RolesPlus.dll` and paste it into the `BepInEx\plugins\` folder.
-8. **Launch & Play:** Launch Among Us, host or find a lobby, and enjoy!
+8. **Download MiraAPI:** Download the latest version of MiraAPI from [here](https://github.com/All-Of-Us-Mods/MiraAPI/releases/)
+   * Move it into `BepInEx\plugins\`
+9. **Download Reactor:** Download the latest version of Reactor from [here](https://github.com/NuclearPowered/Reactor/releases/)
+    * Move it into `BepInEx\plugins\`
+11. **Launch & Play:** Launch Among Us, host or find a lobby, and enjoy!
 
 ---
 
