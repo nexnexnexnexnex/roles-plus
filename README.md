@@ -1,32 +1,33 @@
-# 🚀 RolesPlus
+# 🤫 RolesPlus
 
 An Among Us mod that adds a ton of exciting new roles to the game!
 
 ---
 
-## 🎭 Current Roles
+## ✅ Current Roles
 
-* **🕵️‍♂️ Venter** *(Test Role)*
-* **👻 Ghost** *(Crewmate)*
-* **🧑‍🎤 Loner** *(Neutral Killer)*
-* **🩸 Slaughterer** *(5s Kill Cooldown | No Venting | No Sabotages)*
+* **Venter** *(Hide in vents to catch impostors | Vent access)*
+* **Ghost** *(Die instantly | Can fly through walls | Suggested to set this to a low chance or disable entirely to avoid bored players)*
+* **Loner** *(Neutral Killer | Vent access | Sabotage access)*
+* **Slaughterer** *(5s Kill Cooldown | No Venting | No Sabotages)*
+*  **Time Bomb** *(Complete all tasks in 5 minutes or you'll die | Vent access | Longer task list)*
 
-📅 **Updates:** 2 new roles are added every weekend!
+📅 **Updates:** 2 new roles are added sometime every week!!
 
 ---
 
 ## ⚠️ Important Notice
 
-> [!IMPORTANT]
+> [!Antivirus]
 > **RolesPlus should NOT cause any antivirus detections!** > It is **NOT** a virus and does not download anything additional to your computer. 
 > 
-> Please ensure you download this mod **ONLY** from this official GitHub repository. Any other websites or GitHub pages distributing this `.dll` are not maintained or owned by the creator.
+> Please ensure you download this mod **ONLY** from this official GitHub repository. Any other websites or GitHub pages distributing this `.dll` are not maintained or owned by the creator (me).
 
 ---
 
 ## 🛠️ Installation Guide
 
-Because setting up BepInEx from scratch can be tricky, the easiest way to install this mod is by using a pre-packaged BepInEx setup from Endless Host Roles (EHR). Follow these steps carefully:
+I don't know how to properly set up BepInEx for R+, so follow these steps carefully and it should work:
 
 1. **Download EHR:** Get Endless Host Roles from the [Official Website](https://ehr.gurge44.eu) or the [GitHub Releases Page](https://github.com/Gurge44/EndlessHostRoles/releases/).
 2. **Select your Platform:** Choose the correct `.zip` file for your Among Us platform (e.g., `EHR.vX.X.X_Steam.zip` if you play on Steam).
@@ -42,7 +43,7 @@ Because setting up BepInEx from scratch can be tricky, the easiest way to instal
 
 ## 📝 Critical Compatibility Notes
 
-> [!WARNING]
+> [!Host-only notice]
 > **This mod is NOT host-only!** > If you are hosting a game, **all players** in the lobby must have the exact same `Roles Plus.dll` version in their `plugins` folder. Any player who attempts to join without the `.dll` will be automatically kicked.
 
 ### 🌐 Recommended Regions
