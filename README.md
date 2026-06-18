@@ -1,35 +1,51 @@
-# roles-plus
-An Among Us mod that adds a ton (kinda) of new roles!
+# 🚀 RolesPlus
 
-# List of current roles
-* Venter (test role)
-* Ghost (crew)
-* Loner (neutral killer role)
-* Slaughterer (5cd) (no vent) (no sab)
+An Among Us mod that adds a ton of exciting new roles to the game!
 
-# Important notice
-RolesPlus should NOT cause any antivirus detections! It is NOT a virus and doesn't download anything to your computer either. Please make sure you download it only from here, as there is not a website!! Any other websites / GitHub pages giving out the dll is not maintained or owned by me.
+---
 
-# Installation
-I really don't understand how to set up BepInEx for this, so here's what works:
-1. Download EHR (Endless Host Roles) from [the website](https://ehr.gurge44.eu) or [Releases](https://github.com/Gurge44/EndlessHostRoles/releases/)
-2. Choose the .zip for your Among Us platform (e.g. If you're on Steam, download EHR.vX.X.X_Steam.zip)
-3. Extract it onto your desktop
-4. Copy all the files into your Among Us folder
-5. Launch Among us
+## 🎭 Current Roles
 
-A black console window should show up - It's BepInEx working its magic
+* **🕵️‍♂️ Venter** *(Test Role)*
+* **👻 Ghost** *(Crewmate)*
+* **🧑‍🎤 Loner** *(Neutral Killer)*
+* **🩸 Slaughterer** *(5s Kill Cooldown | No Venting | No Sabotages)*
 
-6. Delete EHR.dll from BepInEx\plugins\EHR.dll (or keep it if you want, the only reason we downloaded it in the first place was for BepInEx to work properly)
-7. Copy RolesPlus-X.X.X.dll into BepInEx\plugins\
-8. Launch Among Us
-9. Host / find a lobby
-10. Enjoy!
+📅 **Updates:** 2 new roles are added every weekend!
 
-2 new roles added every weekend!
+---
 
-# Note
-This is not host-only! If you're hosting a game, all players in the lobby must have RolesPlus-X.X.X.dll in their plugins folder too!
-Any player who attempts to join your lobby will be kicked if they don't have the .dll
+## ⚠️ Important Notice
 
-I recommend playing on modded regions (Niko-NA, Niko-EU, Niko-AS, Niko-CN, MNA, MAS)
+> [!IMPORTANT]
+> **RolesPlus should NOT cause any antivirus detections!** > It is **NOT** a virus and does not download anything additional to your computer. 
+> 
+> Please ensure you download this mod **ONLY** from this official GitHub repository. Any other websites or GitHub pages distributing this `.dll` are not maintained or owned by the creator.
+
+---
+
+## 🛠️ Installation Guide
+
+Because setting up BepInEx from scratch can be tricky, the easiest way to install this mod is by using a pre-packaged BepInEx setup from Endless Host Roles (EHR). Follow these steps carefully:
+
+1. **Download EHR:** Get Endless Host Roles from the [Official Website](https://ehr.gurge44.eu) or the [GitHub Releases Page](https://github.com/Gurge44/EndlessHostRoles/releases/).
+2. **Select your Platform:** Choose the correct `.zip` file for your Among Us platform (e.g., `EHR.vX.X.X_Steam.zip` if you play on Steam).
+3. **Extract:** Extract the contents of the `.zip` folder onto your desktop.
+4. **Copy Files:** Copy all the extracted files and paste them directly into your main **Among Us** directory.
+5. **Initial Boot:** Launch Among Us. A black console window should appear—this means BepInEx is working its magic! Close the game once it loads.
+6. **Clean Up EHR Files:** * Go to `BepInEx\plugins\` and delete `EHR.dll` and `MiniRegionInfo.dll`.
+   * Delete the `EHR_Logs` from your desktop and `Language` from your Among Us directory *(Note: You can keep all of this if you want, but I'm not sure if it conflicts with R+).*
+7. **Install RolesPlus:** Copy your downloaded `RolesPlus.dll` and paste it into the `BepInEx\plugins\` folder.
+8. **Launch & Play:** Launch Among Us, host or find a lobby, and enjoy!
+
+---
+
+## 📝 Critical Compatibility Notes
+
+> [!WARNING]
+> **This mod is NOT host-only!** > If you are hosting a game, **all players** in the lobby must have the exact same `Roles Plus.dll` version in their `plugins` folder. Any player who attempts to join without the `.dll` will be automatically kicked.
+
+### 🌐 Recommended Regions
+For the best experience, we highly recommend playing on custom modded regions:
+* `Niko-NA` | `Niko-EU` | `Niko-AS` | `Niko-CN`
+* `MNA` | `MAS`
