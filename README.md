@@ -51,6 +51,6 @@ I don't know how to properly set up BepInEx for R+, so follow these steps carefu
 > **This mod is NOT host-only!** > If you are hosting a game, **all players** in the lobby must have the exact same `Roles Plus.dll` version in their `plugins` folder. Any player who attempts to join without the `.dll` will be automatically kicked. `(Host is missing: Roles+ (X.X.X), MiraAPI (X.X.X)`
 
 ### 🌐 Recommended Regions
-For the best experience, we highly recommend playing on custom modded regions:
+For the best experience, I highly recommend playing on custom modded regions (pretty sure it helps hide you from Innersloth's anticheat):
 * `Niko-NA` | `Niko-EU` | `Niko-AS` | `Niko-CN`
-* `MNA` | `MAS`
+* `MNA (Modded North America)` | `MAS (Modded Asia)`
