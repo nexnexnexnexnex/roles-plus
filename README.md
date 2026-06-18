@@ -18,7 +18,7 @@ An Among Us mod that adds a ton of exciting new roles to the game!
 
 ## ⚠️ Important Notice
 
-> [!Antivirus]
+> [!IMPORTANT]
 > **RolesPlus should NOT cause any antivirus detections!** > It is **NOT** a virus and does not download anything additional to your computer. 
 > 
 > Please ensure you download this mod **ONLY** from this official GitHub repository. Any other websites or GitHub pages distributing this `.dll` are not maintained or owned by the creator (me).
@@ -43,7 +43,7 @@ I don't know how to properly set up BepInEx for R+, so follow these steps carefu
 
 ## 📝 Critical Compatibility Notes
 
-> [!Host-only notice]
+> [!WARNING]
 > **This mod is NOT host-only!** > If you are hosting a game, **all players** in the lobby must have the exact same `Roles Plus.dll` version in their `plugins` folder. Any player who attempts to join without the `.dll` will be automatically kicked.
 
 ### 🌐 Recommended Regions
