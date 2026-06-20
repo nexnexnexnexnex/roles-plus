@@ -4,13 +4,17 @@ An Among Us mod that adds a ton of exciting new roles to the game!
 
 ---
 
-## ✅ Current Roles
+## 🫂 Current Crew Roles
 
 * **Venter** *(Hide in vents to catch impostors | Vent access)*
 * **Ghost** *(Die instantly | Can fly through walls | Suggested to set this to a low chance or disable entirely to avoid bored players)*
-* **Loner** *(Neutral Killer | Vent access | Sabotage access)*
-* **Slaughterer** *(5s Kill Cooldown | No Venting | No Sabotages)*
 *  **Time Bomb** *(Complete all tasks in 5 minutes or you'll die | Vent access | Longer task list)*
+
+## ☠️ Current Impostor Roles
+* **Slaughterer** *(5s Kill Cooldown | No Venting | No Sabotages)*
+
+## 🚫 Current Neutral Roles
+* **Loner** *(Killer | Vent access | Sabotage access)*
 
 📅 **Updates:** 2 new roles are added sometime every week!!
 
