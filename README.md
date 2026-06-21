@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="./installation/" style="background-color: #2ea44f; color: white; padding: 10px 18px; text-decoration: none; font-weight: bold; border-radius: 6px; display: inline-block; margin-right: 10px;">💾 How to Install</a>
+  <a href="https://github.com/nexnexnexnexnex/roles-plus" style="background-color: #24292e; color: white; padding: 10px 18px; text-decoration: none; font-weight: bold; border-radius: 6px; display: inline-block;">💻 Source Code</a>
+</p>
+
+---
+
+
 # 🤫 RolesPlus
 
 An Among Us mod that adds a ton of exciting new roles to the game!
