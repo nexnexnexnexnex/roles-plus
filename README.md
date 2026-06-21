@@ -4,17 +4,28 @@ An Among Us mod that adds a ton of exciting new roles to the game!
 
 ---
 
+# 👀 R+ Beta
+The RolesPlusBeta.dll is available to anybody wanting to try out new, unfinished/buggy roles. The beta version will have newer roles before the stable version, but it enables new roles and features that currently aren't available yet on the main `.dll` yet.
+
+---
+
 ## 🫂 Current Crew Roles
 
 * **Venter** *(Hide in vents to catch impostors | Vent access)*
 * **Ghost** *(Die instantly | Can fly through walls | Suggested to set this to a low chance or disable entirely to avoid bored players)*
 *  **Time Bomb** *(Complete all tasks in 5 minutes or you'll die | Vent access | Longer task list)*
 
-## ☠️ Current Impostor Roles
+## Current Impostor Roles
 * **Slaughterer** *(5s Kill Cooldown | No Venting | No Sabotages)*
 
-## 🚫 Current Neutral Roles
+## Current Neutral Roles
 * **Loner** *(Killer | Vent access | Sabotage access)*
+
+## Current WIP Roles (unreleased/unfinished)
+* **Security Guard** *(Crew | Open cams with a button | vent access)*
+* **Backstabber** *(Crew | Standard impostor privileges)*
+* **Long Distance Killer** *(Impostor | Kill button kills the furthest player away from you | No Sabotages | vent access)*
+* **Randomiser** *(Impostor | Kill button kills a random player instead of the one closest to you | Sabotages | No vent access)*
 
 📅 **Updates:** 2 new roles are added sometime every week!!
 
