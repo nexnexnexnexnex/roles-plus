@@ -13,7 +13,7 @@ An Among Us mod that adds a ton of exciting new roles to the game!
 ---
 
 # 👀 R+ Beta
-The RolesPlusBeta.dll is available to anybody wanting to try out new, unfinished/buggy roles. The beta version will have newer roles before the stable version, but it enables new roles and features that currently aren't available yet on the main `.dll` yet.
+The RolesPlusBeta.dll is available to anybody wanting to try out new, unfinished/buggy roles. The beta version will have newer roles before the stable version, but it enables new roles and features that currently aren't available yet on the main `.dll` yet. Experimental roles will be named as `Exp.RoleName`.
 
 ---
 
